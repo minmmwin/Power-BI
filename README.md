@@ -6,3 +6,8 @@ This report was built using the following tutorial video
 https://www.youtube.com/watch?v=Qgam9M8I0xA
 An Excel workbook ( Financial Sample) can be downloaded in the following link
 https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+
+Euro Cup Winners
+This report was built using the following tutorial
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-importing-and-analyzing-data-from-a-web-page
+
