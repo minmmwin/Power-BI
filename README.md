@@ -11,3 +11,9 @@ Euro Cup Winners
 This report was built using the following tutorial
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-importing-and-analyzing-data-from-a-web-page
 
+Best States to Retire in US
+Tutorial: Shape and combine data in Power BI Desktop
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data
+The transformed semantic model was built in this tutorial using the data, '2024 Ranking' from the following website
+https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/#how-your-state-ranks-for-reti
+
