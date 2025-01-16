@@ -17,3 +17,12 @@ https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combin
 The transformed semantic model was built in this tutorial using the data, '2024 Ranking' from the following website
 https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/#how-your-state-ranks-for-reti
 
+
+The Power Query user interface
+Tutorial: The Power Query user interface
+https://learn.microsoft.com/en-us/power-query/power-query-ui#the-query-ribbon
+Dataset from Northwind OData feed was used
+https://services.odata.org/V4/Northwind/Northwind.svc/
+
+
+
