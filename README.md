@@ -24,5 +24,8 @@ https://learn.microsoft.com/en-us/power-query/power-query-ui#the-query-ribbon
 Dataset from Northwind OData feed was used
 https://services.odata.org/V4/Northwind/Northwind.svc/
 
+Adventure Works DW 2020 M01
+Tutorial: Configure report visuals
+https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/4-report-visuals
 
 
