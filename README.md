@@ -28,4 +28,8 @@ Adventure Works DW 2020 M01
 Tutorial: Configure report visuals
 https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/4-report-visuals
 
+Sales Analysis 6
+Lab: Design a Report in Power BI Desktop
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/06-design-report-in-power-bi-desktop.html
+
 
