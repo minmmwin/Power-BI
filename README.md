@@ -32,4 +32,13 @@ Sales Analysis 6
 Lab: Design a Report in Power BI Desktop
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/06-design-report-in-power-bi-desktop.html
 
+Sales Analysis 5b
+Lab: Create Visual Calculations in Power BI Desktop
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/05b-create-visual-calculations-in-power-bi-desktop.html
+In this lab, I've learned how to 
+* Create and edit visual calculations
+* Use PREVIOUS(), RUNNINGSUM() and MOVINGAVERAGE() functions to create comparison metrics between each fiscal year
+* Use the optional Axis parameter when creating comparison metrics.
+* Use the optional Reset parameter to customize cumulative calculations in a multi-leveled axis.
+
 
