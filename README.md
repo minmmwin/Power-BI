@@ -35,10 +35,17 @@ https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instr
 Sales Analysis 5b
 Lab: Create Visual Calculations in Power BI Desktop
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/05b-create-visual-calculations-in-power-bi-desktop.html
-In this lab, I've learned how to 
+In this lab, I completed the following tasks:
 * Create and edit visual calculations
 * Use PREVIOUS(), RUNNINGSUM() and MOVINGAVERAGE() functions to create comparison metrics between each fiscal year
 * Use the optional Axis parameter when creating comparison metrics.
 * Use the optional Reset parameter to customize cumulative calculations in a multi-leveled axis.
 
-
+07-Sales Analysis Enhance a Report in Power BI Desktop
+Lab: Enhance a Report in Power BI Desktop
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/07-design-report-in-power-bi-desktop-enhanced.html
+In this lab,  I've completed the following tasks:
+* Sync slicers
+* Create a drill through page
+* Apply conditional formatting
+* Create and use bookmarks & buttons
