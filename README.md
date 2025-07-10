@@ -49,3 +49,10 @@ In this lab,  I've completed the following tasks:
 * Create a drill through page
 * Apply conditional formatting
 * Create and use bookmarks & buttons
+
+10-Sales Analysis_Perform analytics in Power BI
+Lab: Perform analytics in Power BI
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/10-perform-analytics-power-bi.html
+In this lab, I've created the Sales Exploration report completing the following tasks:
+* Create animated scatter charts.
+* Use a visual to forecast values.
