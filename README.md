@@ -41,7 +41,7 @@ In this lab, I completed the following tasks:
 * Use the optional Axis parameter when creating comparison metrics.
 * Use the optional Reset parameter to customize cumulative calculations in a multi-leveled axis.
 
-07-Sales Analysis Enhance a Report in Power BI Desktop
+07-Sales Analysis (Enhance a Report in Power BI Desktop)
 Lab: Enhance a Report in Power BI Desktop
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/07-design-report-in-power-bi-desktop-enhanced.html
 In this lab,  I've completed the following tasks:
@@ -50,9 +50,18 @@ In this lab,  I've completed the following tasks:
 * Apply conditional formatting
 * Create and use bookmarks & buttons
 
-10-Sales Analysis_Perform analytics in Power BI
+10-Sales Analysis (Perform analytics in Power BI)
 Lab: Perform analytics in Power BI
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/10-perform-analytics-power-bi.html
 In this lab, I've created the Sales Exploration report completing the following tasks:
 * Create animated scatter charts.
 * Use a visual to forecast values.
+
+01- Sales Analysis (Get data in Power BI)
+Lab: Get data in Power BI
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/01-get-data-in-power-bi.html
+In this lab, I've learned the following tasks:
+* Open Power BI Desktop.
+* Connect to different data sources.
+* Preview source data with Power Query.
+* Use data profiling features in Power Query.
