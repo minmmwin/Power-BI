@@ -54,14 +54,13 @@ In this lab,  I've completed the following tasks:
 Lab: Perform analytics in Power BI
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/10-perform-analytics-power-bi.html
 In this lab, I've created the Sales Exploration report completing the following tasks:
-* Create animated scatter charts.
-* Use a visual to forecast values.
+* Create animated scatter charts
+* Use a visual to forecast values
 
 01- Sales Analysis (Get data in Power BI)
 Lab: Get data in Power BI
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/01-get-data-in-power-bi.html
 In this lab, I've learned the following tasks:
-* Open Power BI Desktop.
-* Connect to different data sources.
-* Preview source data with Power Query.
-* Use data profiling features in Power Query.
+* Get data from SQL Server (Connect to a SQL Server database and import tables, which create queries in Power Query)
+* Preview Data in Power Query Editor (Review and profile the data for dimension tables and fact tables)
+* Get data from a CSV file (Create a new query based on CSV files)
