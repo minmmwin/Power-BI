@@ -60,7 +60,18 @@ In this lab, I've created the Sales Exploration report completing the following 
 01- Sales Analysis (Get data in Power BI)
 Lab: Get data in Power BI
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/01-get-data-in-power-bi.html
-In this lab, I've learned the following tasks:
+In this lab, I've completed the following tasks:
 * Get data from SQL Server (Connect to a SQL Server database and import tables, which create queries in Power Query)
 * Preview Data in Power Query Editor (Review and profile the data for dimension tables and fact tables)
 * Get data from a CSV file (Create a new query based on CSV files)
+
+02- Sales Analysis (Clean, transform, and load data in Power BI)
+Lab: Clean, transform, and load data in Power BI
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/02-transform-data-power-bi.html
+In this lab, I've completed the following tasks using Power Query Editor:
+* Configure the Salesperson query
+* Configure the SalespersonRegion query
+* Configure the Product query
+* Configure the Reseller query
+* Configure the Region query
+* onfigure the Sales query
