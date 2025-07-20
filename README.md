@@ -53,7 +53,7 @@ In this lab,  I've completed the following tasks:
 10-Sales Analysis (Perform analytics in Power BI)
 Lab: Perform analytics in Power BI
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/10-perform-analytics-power-bi.html
-In this lab, I've created the Sales Exploration report completing the following tasks:
+In this lab, I've created the Sales Exploration report and completed the following tasks:
 * Create animated scatter charts
 * Use a visual to forecast values
 
@@ -74,4 +74,8 @@ In this lab, I've completed the following tasks using Power Query Editor:
 * Configure the Product query
 * Configure the Reseller query
 * Configure the Region query
-* onfigure the Sales query
+* Configure the Sales query
+* Configure the Targets query
+* Configure the ColorFormats query
+* Update the Product query
+* Update the ColorFormats query
